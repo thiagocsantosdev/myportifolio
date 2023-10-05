@@ -68,7 +68,7 @@ nav ul li:hover{
 }
 
 .container-welcome{
-
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -85,11 +85,13 @@ nav ul li:hover{
 }
 
 .container-welcome-tech{
+    margin-top: ;
     font-size: 2.2em;
     font-weight: 600;
 }
 
 .stack-container{
+    margin-top: 25px;
     display: flex;
     list-style: none;
     gap: 8px; 
